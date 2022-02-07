@@ -63,4 +63,6 @@ j) fractal dimension ("coastline approximation" - 1)
 What I learnt from this Project-
 By the end of this Project, I felt more confident about working with data, creating visualizations for data analysis, and have practiced several methods which apply to a Data Scientist’s role. 
 
+(Medium blog)[https://medium.com/@kamikazetwr/classifying-cancer-tumours-beginners-self-project-c2e4cdc8bf39]
+
 This is a (Guided Project by Coursera)[https://www.coursera.org/learn/statistical-data-visualization-seaborn-ust/home/welcome]
